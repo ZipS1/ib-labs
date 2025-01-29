@@ -1,3 +1,8 @@
+# Temporary files for labs
+**/encrypted.txt
+**/decrypted.txt
+**/*.pem
+
 # SQLite DBs
 **/*.db
 
