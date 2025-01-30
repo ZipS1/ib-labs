@@ -1,4 +1,5 @@
 # Temporary files for labs
+**/text.txt
 **/encrypted.txt
 **/decrypted.txt
 **/*.pem
