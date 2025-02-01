@@ -1,4 +1,9 @@
 # Temporary files for labs
+**/message.txt
+**/private_key.txt
+**/public_key.txt
+**/keys.txt
+**/signature.txt
 **/text.txt
 **/encrypted.txt
 **/decrypted.txt
